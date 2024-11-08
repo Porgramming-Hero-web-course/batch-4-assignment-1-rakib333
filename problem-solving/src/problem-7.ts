@@ -24,6 +24,6 @@ Create a TypeScript class Car with properties make, model, and year. Include a m
   const myCarAge: number = carAge.getCarAge();
 
   //   console.log(
-  //     `${myCarAge}  (assuming current year is ${new Date().getFullYear()})`
+  //     myCarAge
   //   ); // output --> 14
 }
