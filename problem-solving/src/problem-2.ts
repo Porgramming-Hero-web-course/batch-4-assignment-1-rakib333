@@ -13,5 +13,5 @@ Create a TypeScript function removeDuplicates that accepts an array of numbers a
   };
 
   const result2 = removeDuplicates([1, 2, 2, 3, 4, 2, 4, 3, 5]);
-  console.log(result2);
+  console.log(result2); // output --> [ 1, 2, 3, 4, 5 ]
 }
